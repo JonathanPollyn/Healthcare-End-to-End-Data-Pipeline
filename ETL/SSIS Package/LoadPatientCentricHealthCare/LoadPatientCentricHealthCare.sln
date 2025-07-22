@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "LoadPatientCentricHealthCare", "LoadPatientCentricHealthCare\LoadPatientCentricHealthCare.dtproj", "{B35E3D4F-C9CD-4330-ABE8-0B95548561E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B35E3D4F-C9CD-4330-ABE8-0B95548561E1}.Development|Default.ActiveCfg = Development
+		{B35E3D4F-C9CD-4330-ABE8-0B95548561E1}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {86385192-8A2C-48EF-8DB7-B30A557EE7F8}
+	EndGlobalSection
+EndGlobal

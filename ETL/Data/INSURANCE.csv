@@ -1,0 +1,101 @@
+insurance_id,insurance_company,plan_type,group_number
+1,Blue Cross Blue Shield,HDHP,GRP1964
+2,Kaiser Permanente,HDHP,GRP4750
+3,Cigna,EPO,GRP2104
+4,Cigna,HDHP,GRP1514
+5,Aetna,POS,GRP6413
+6,UnitedHealthcare,HDHP,GRP2160
+7,WellCare,POS,GRP9423
+8,UnitedHealthcare,EPO,GRP4899
+9,Anthem,PPO,GRP5562
+10,Molina Healthcare,PPO,GRP8953
+11,Blue Cross Blue Shield,HDHP,GRP4510
+12,Blue Cross Blue Shield,POS,GRP9834
+13,UnitedHealthcare,HMO,GRP3167
+14,Cigna,HMO,GRP8744
+15,Cigna,HMO,GRP4981
+16,WellCare,PPO,GRP8749
+17,Anthem,PPO,GRP7669
+18,Blue Cross Blue Shield,POS,GRP4119
+19,WellCare,HDHP,GRP2545
+20,Cigna,HMO,GRP2588
+21,WellCare,POS,GRP8062
+22,Molina Healthcare,POS,GRP6804
+23,Cigna,HDHP,GRP7939
+24,Centene,POS,GRP7735
+25,Anthem,HDHP,GRP8651
+26,Kaiser Permanente,EPO,GRP1887
+27,Blue Cross Blue Shield,HDHP,GRP2612
+28,Aetna,HMO,GRP1993
+29,Molina Healthcare,HMO,GRP7596
+30,Humana,HDHP,GRP6559
+31,Kaiser Permanente,EPO,GRP2790
+32,Aetna,EPO,GRP5073
+33,Cigna,HMO,GRP4139
+34,Humana,EPO,GRP4116
+35,UnitedHealthcare,POS,GRP9786
+36,UnitedHealthcare,PPO,GRP8350
+37,Molina Healthcare,POS,GRP3296
+38,UnitedHealthcare,HMO,GRP7912
+39,Humana,EPO,GRP4006
+40,Humana,HDHP,GRP5563
+41,Anthem,PPO,GRP8579
+42,Kaiser Permanente,HDHP,GRP5092
+43,Blue Cross Blue Shield,HMO,GRP2235
+44,Centene,EPO,GRP8260
+45,WellCare,HDHP,GRP2604
+46,UnitedHealthcare,HDHP,GRP1828
+47,Molina Healthcare,PPO,GRP9856
+48,UnitedHealthcare,PPO,GRP1241
+49,WellCare,EPO,GRP2528
+50,Kaiser Permanente,PPO,GRP4872
+51,Anthem,HDHP,GRP3724
+52,Humana,HDHP,GRP7658
+53,Anthem,HMO,GRP8956
+54,Cigna,HDHP,GRP8886
+55,UnitedHealthcare,EPO,GRP4502
+56,Blue Cross Blue Shield,POS,GRP7570
+57,Cigna,HMO,GRP1960
+58,Kaiser Permanente,HMO,GRP3697
+59,UnitedHealthcare,EPO,GRP7209
+60,Cigna,EPO,GRP1035
+61,UnitedHealthcare,PPO,GRP7396
+62,Molina Healthcare,HMO,GRP5345
+63,Kaiser Permanente,PPO,GRP8454
+64,Centene,HDHP,GRP5673
+65,Humana,HMO,GRP7930
+66,Aetna,HMO,GRP8973
+67,Humana,POS,GRP3536
+68,Humana,HMO,GRP4111
+69,Cigna,HDHP,GRP5861
+70,Kaiser Permanente,PPO,GRP4566
+71,UnitedHealthcare,PPO,GRP1958
+72,Anthem,POS,GRP9883
+73,Aetna,HDHP,GRP1998
+74,WellCare,PPO,GRP6138
+75,Cigna,EPO,GRP1936
+76,Aetna,HDHP,GRP1821
+77,Centene,HDHP,GRP8811
+78,Molina Healthcare,POS,GRP9238
+79,Kaiser Permanente,PPO,GRP9701
+80,WellCare,HDHP,GRP3579
+81,Cigna,PPO,GRP1931
+82,Humana,EPO,GRP9320
+83,Blue Cross Blue Shield,POS,GRP2312
+84,Cigna,EPO,GRP4044
+85,Blue Cross Blue Shield,POS,GRP2122
+86,Humana,HDHP,GRP2113
+87,Molina Healthcare,POS,GRP4853
+88,Kaiser Permanente,HMO,GRP7615
+89,UnitedHealthcare,PPO,GRP2964
+90,Cigna,PPO,GRP5033
+91,Anthem,HMO,GRP1651
+92,Humana,EPO,GRP2343
+93,Cigna,HMO,GRP7868
+94,Centene,HDHP,GRP9565
+95,Molina Healthcare,HDHP,GRP6183
+96,Centene,PPO,GRP5272
+97,Aetna,HDHP,GRP4346
+98,Kaiser Permanente,PPO,GRP6147
+99,Aetna,HMO,GRP4910
+100,Cigna,HMO,GRP5351

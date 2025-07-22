@@ -1,0 +1,201 @@
+provider_id,first_name,last_name,specialty,license_number,phone_number,email,clinic_location
+1,Danielle,Johnson,Urology,LIC216739,332-181-9600x133,danielle.johnson@guzman.net,Downtown Medical Center
+2,Robert,Cole,Gastroenterology,LIC388389,026-542-3511x615,robert.cole@munoz-roman.info,Westside Clinic
+3,Amanda,Dudley,Cardiology,LIC246316,(184)959-3103x4131,amanda.dudley@ramirez-reid.com,Central Wellness Center
+4,Francisco,Kelly,Internal Medicine,LIC809570,+1-419-283-2764x83503,francisco.kelly@trujillo.com,Central Wellness Center
+5,Carl,Gentry,Oncology,LIC191161,001-537-672-4238,carl.gentry@baker.biz,Northside Family Practice
+6,Michael,Osborn,Psychiatry,LIC133326,(871)012-2691,michael.osborn@james-ferrell.net,Downtown Medical Center
+7,John,Tran,Internal Medicine,LIC329258,1845146270,john.tran@liu.com,Westside Clinic
+8,William,Rodriguez,Oncology,LIC731262,+1-489-325-2880x9570,william.rodriguez@hickman.com,Downtown Medical Center
+9,Brian,Humphrey,Oncology,LIC308496,171-822-7824,brian.humphrey@brennan.net,Central Wellness Center
+10,Karina,Vaughn,Urology,LIC835392,001-465-787-1331x509,karina.vaughn@hall.com,Northside Family Practice
+11,Jeremy,Whitehead,Psychiatry,LIC331148,183-473-8299x73763,jeremy.whitehead@davis.com,East Valley Medical
+12,Rodney,Owens,Neurology,LIC391704,001-010-651-3338x7262,rodney.owens@ford-baxter.com,Downtown Medical Center
+13,Scott,Callahan,Pediatrics,LIC832052,-2797,scott.callahan@hancock.com,East Valley Medical
+14,Nicholas,Galloway,Dermatology,LIC391369,746-872-3430x980,nicholas.galloway@edwards.net,Westside Clinic
+15,Eric,Yu,Cardiology,LIC900581,219-136-1939,eric.yu@williams.org,Uptown Health Hub
+16,Alexandra,Donovan,Internal Medicine,LIC197251,534.624.7510,alexandra.donovan@howell-hart.com,East Valley Medical
+17,Charles,Lewis,Internal Medicine,LIC476417,251-354-2784x980,charles.lewis@montoya.com,Uptown Health Hub
+18,Joseph,Preston,Neurology,LIC377370,001-824-493-5348x7401,joseph.preston@henderson.com,Downtown Medical Center
+19,Dana,Green,Gastroenterology,LIC581741,001-786-801-1280x5982,dana.green@anderson-parker.com,Northside Family Practice
+20,Rachel,Clark,Internal Medicine,LIC496922,158.692.3226,rachel.clark@white.biz,Downtown Medical Center
+21,Leah,Shields,Oncology,LIC407419,421.607.3375,leah.shields@hoover-savage.com,Central Wellness Center
+22,Andrew,Lee,Neurology,LIC479201,414-586-8501x42940,andrew.lee@carlson.com,Northside Family Practice
+23,Samuel,Joyce,Cardiology,LIC838797,693-406-0883,samuel.joyce@reynolds-rush.com,Downtown Medical Center
+24,Cindy,Alvarado,Family Medicine,LIC793384,484-656-4823,cindy.alvarado@ortega-gray.com,Westside Clinic
+25,Christina,Turner,Orthopedics,LIC183667,-9989,christina.turner@lowe-dixon.com,Westside Clinic
+26,Donna,Campbell,Internal Medicine,LIC498591,+1-951-343-3200x37917,donna.campbell@mercado-johnston.biz,Uptown Health Hub
+27,Troy,Sanchez,Endocrinology,LIC766563,+1-016-328-7083x1727,troy.sanchez@schmidt.info,Uptown Health Hub
+28,Cheyenne,Ball,Pediatrics,LIC488162,687.277.4348x73471,cheyenne.ball@mitchell.net,Uptown Health Hub
+29,Christopher,Hernandez,Cardiology,LIC802729,(231)665-8760x3669,christopher.hernandez@smith.info,Uptown Health Hub
+30,Adam,Bell,Gastroenterology,LIC816751,001-668-893-7346x70656,adam.bell@martin.org,Central Wellness Center
+31,Amanda,Meadows,Internal Medicine,LIC738720,001-901-627-2046,amanda.meadows@lewis-murphy.biz,Central Wellness Center
+32,Joshua,Bean,Pediatrics,LIC660086,(417)080-5310x03309,joshua.bean@allen.com,Central Wellness Center
+33,Anne,Robinson,Cardiology,LIC271339,001-452-991-2419x049,anne.robinson@odonnell.com,East Valley Medical
+34,Charles,Vaughn,Psychiatry,LIC383060,+1-314-919-0586x5185,charles.vaughn@atkinson.com,Central Wellness Center
+35,Ryan,Cox,Gastroenterology,LIC684004,262.849.8776x945,ryan.cox@rivas.com,Westside Clinic
+36,Nicole,Sanchez,Urology,LIC440035,996.507.5273x545,nicole.sanchez@beard-haynes.com,Downtown Medical Center
+37,Angela,Black,Cardiology,LIC961722,136.783.7770,angela.black@phillips.com,Downtown Medical Center
+38,Kevin,Perkins,Dermatology,LIC520651,885.685.5744x4313,kevin.perkins@wilson-herrera.com,Uptown Health Hub
+39,James,Rodgers,Internal Medicine,LIC321231,989-413-4352x408,james.rodgers@hill.net,Northside Family Practice
+40,Kelly,Raymond,Gastroenterology,LIC429963,+1-710-947-7752x0471,kelly.raymond@morales.org,Westside Clinic
+41,Crystal,Brown,Urology,LIC623481,(941)318-6999,crystal.brown@rowe.info,East Valley Medical
+42,Rebekah,Evans,Urology,LIC581141,001-649-909-1334,rebekah.evans@miller.com,Westside Clinic
+43,Aaron,Hayes,Orthopedics,LIC246413,+1-740-344-7134x936,aaron.hayes@stephens.com,Westside Clinic
+44,Rebekah,Serrano,Gastroenterology,LIC688637,024-994-7174,rebekah.serrano@powell.info,Northside Family Practice
+45,Christopher,Williams,Orthopedics,LIC883300,(594)013-9904x90278,christopher.williams@ramos.biz,Northside Family Practice
+46,Cynthia,Vasquez,Psychiatry,LIC711878,756-551-2567,cynthia.vasquez@bates-morales.net,East Valley Medical
+47,Benjamin,Miller,Dermatology,LIC329974,516-808-7603x859,benjamin.miller@garrett-wolf.com,Westside Clinic
+48,Joseph,Anderson,Oncology,LIC617488,771-093-2480x8613,joseph.anderson@murray.com,Downtown Medical Center
+49,Tyrone,Moran,Family Medicine,LIC214975,467.737.8263x98214,tyrone.moran@morgan-french.com,Westside Clinic
+50,Lori,Campbell,Urology,LIC267753,997-278-7558x8675,lori.campbell@pollard.org,Central Wellness Center
+51,Patrick,Chase,Psychiatry,LIC725380,(057)662-7028x95171,patrick.chase@lozano.com,Downtown Medical Center
+52,Charles,Harrington,Psychiatry,LIC500156,596-158-6578x091,charles.harrington@welch.com,Northside Family Practice
+53,Julie,Hamilton,Endocrinology,LIC654816,172-400-5045,julie.hamilton@jordan-sanchez.biz,Uptown Health Hub
+54,Ashlee,Sparks,Oncology,LIC112038,(219)693-7923,ashlee.sparks@little-stevens.com,Central Wellness Center
+55,Rachel,Marshall,Gastroenterology,LIC220116,821-759-4647x4367,rachel.marshall@young.com,Central Wellness Center
+56,Bailey,Haney,Oncology,LIC887352,064-090-9743x9533,bailey.haney@king.com,Uptown Health Hub
+57,Courtney,Berger,Urology,LIC456699,+1-047-095-2145x6232,courtney.berger@walter.com,Downtown Medical Center
+58,Maria,Scott,Orthopedics,LIC555884,451.712.3685x1604,maria.scott@martinez.com,Westside Clinic
+59,Brenda,Carson,Endocrinology,LIC103402,(137)098-5931x746,brenda.carson@taylor.com,Central Wellness Center
+60,Wendy,Wilson,Gastroenterology,LIC376183,826.758.6926,wendy.wilson@garcia.com,Northside Family Practice
+61,Antonio,Wood,Pediatrics,LIC632342,735.158.5064x317,antonio.wood@bates.org,Downtown Medical Center
+62,Tasha,Williams,Urology,LIC412942,329-318-3933x52904,tasha.williams@huerta.com,Central Wellness Center
+63,Lauren,Rodriguez,Oncology,LIC738551,2053950240,lauren.rodriguez@harmon.com,Westside Clinic
+64,Julie,Alvarez,Pediatrics,LIC492077,001-589-178-3908x47007,julie.alvarez@simmons-rodriguez.info,Westside Clinic
+65,Charles,Miller,Oncology,LIC916449,+1-212-499-8569x847,charles.miller@jacobs.net,Northside Family Practice
+66,Jennifer,Lewis,Family Medicine,LIC728038,365.766.1565x452,jennifer.lewis@leblanc.com,Uptown Health Hub
+67,Ryan,Garner,Endocrinology,LIC120422,(280)988-5165x604,ryan.garner@edwards.com,Downtown Medical Center
+68,Diane,Walker,Dermatology,LIC972064,585-149-3689,diane.walker@leonard.com,Uptown Health Hub
+69,Anthony,Nelson,Cardiology,LIC160738,001-455-022-9612x01836,anthony.nelson@chavez-moore.com,Westside Clinic
+70,Jennifer,Frank,Neurology,LIC182582,001-910-229-0147,jennifer.frank@coleman.com,Downtown Medical Center
+71,Kari,Wilson,Gastroenterology,LIC609597,(149)784-0369x00343,kari.wilson@duran.com,Downtown Medical Center
+72,David,Jimenez,Oncology,LIC903035,(226)838-8516x06071,david.jimenez@johnston-berry.biz,Westside Clinic
+73,Keith,Sullivan,Pediatrics,LIC791798,297-516-1369x68164,keith.sullivan@morgan.net,East Valley Medical
+74,Cynthia,Schmidt,Oncology,LIC273148,552.312.4329,cynthia.schmidt@wolf.com,Uptown Health Hub
+75,Gregory,Mejia,Oncology,LIC736059,799.799.5527x1774,gregory.mejia@vargas-bell.com,East Valley Medical
+76,Lance,Hayes,Cardiology,LIC665492,5411998679,lance.hayes@best.org,Central Wellness Center
+77,Denise,Morris,Gastroenterology,LIC310922,820.715.1820x3778,denise.morris@bishop.biz,Central Wellness Center
+78,Riley,Morgan,Orthopedics,LIC518373,+1-051-518-6449x251,riley.morgan@alvarado.biz,Central Wellness Center
+79,David,Fletcher,Urology,LIC491559,486-528-1685,david.fletcher@cox.com,East Valley Medical
+80,Matthew,Miranda,Oncology,LIC573417,322.141.8880,matthew.miranda@rogers.biz,Downtown Medical Center
+81,Eric,White,Cardiology,LIC335612,001-927-065-3794x738,eric.white@collins.com,Downtown Medical Center
+82,Micheal,Valentine,Dermatology,LIC122056,746.886.2392x407,micheal.valentine@spencer-garcia.net,Northside Family Practice
+83,Melissa,Mitchell,Oncology,LIC341292,001-247-826-1375x06068,melissa.mitchell@young-vang.com,Northside Family Practice
+84,Jeffrey,Flores,Cardiology,LIC107540,522-047-2779,jeffrey.flores@bullock.com,Downtown Medical Center
+85,Jason,Hernandez,Gastroenterology,LIC761759,001-986-143-4103x6971,jason.hernandez@copeland.org,Downtown Medical Center
+86,Amanda,Chen,Cardiology,LIC170674,001-324-609-5396,amanda.chen@beck.net,Downtown Medical Center
+87,Theresa,Jones,Dermatology,LIC174299,888.806.7065x40515,theresa.jones@quinn.com,Northside Family Practice
+88,Kelsey,Moss,Cardiology,LIC392004,205-852-7722x17043,kelsey.moss@moody.com,Central Wellness Center
+89,Sarah,Robertson,Endocrinology,LIC324643,-1625,sarah.robertson@kim-ross.info,Northside Family Practice
+90,Patricia,Hughes,Pediatrics,LIC858490,(775)841-6169,patricia.hughes@gardner.com,Northside Family Practice
+91,Christopher,Guerrero,Neurology,LIC595631,796-275-7059x6401,christopher.guerrero@walsh.com,Westside Clinic
+92,Stephanie,Thomas,Endocrinology,LIC946721,+1-702-135-5690x927,stephanie.thomas@watson-hines.org,East Valley Medical
+93,Devin,Richardson,Cardiology,LIC198907,431-027-8681x44739,devin.richardson@benson-lutz.com,Downtown Medical Center
+94,David,Farrell,Urology,LIC551989,271.551.8844x225,david.farrell@walker.com,Uptown Health Hub
+95,Kristy,Johnson,Psychiatry,LIC531071,-2931,kristy.johnson@higgins.org,East Valley Medical
+96,Charles,Compton,Gastroenterology,LIC156802,+1-177-852-8922x6801,charles.compton@hernandez.com,Central Wellness Center
+97,Michael,Everett,Urology,LIC777568,143-842-4981x8299,michael.everett@jackson.org,Downtown Medical Center
+98,Matthew,Bradshaw,Family Medicine,LIC522179,109439690,matthew.bradshaw@small-gardner.com,Central Wellness Center
+99,Timothy,Ballard,Dermatology,LIC939482,+1-647-102-7677x35925,timothy.ballard@flores.biz,Downtown Medical Center
+100,David,Wood,Cardiology,LIC300896,-8187,david.wood@roberts.org,Westside Clinic
+101,Robert,Estes,Oncology,LIC570405,(595)327-8774,robert.estes@johnson-landry.net,Westside Clinic
+102,Stephen,Allen,Psychiatry,LIC292401,001-500-479-7480,stephen.allen@jordan.com,Uptown Health Hub
+103,Kathryn,Diaz,Endocrinology,LIC361941,(098)358-4168x7849,kathryn.diaz@carr.com,Downtown Medical Center
+104,Laura,Morgan,Endocrinology,LIC947272,(239)868-0002x578,laura.morgan@hernandez-barry.com,Northside Family Practice
+105,Mark,Austin,Internal Medicine,LIC153045,(694)958-8879,mark.austin@wells-smith.com,Central Wellness Center
+106,Emily,Whitney,Oncology,LIC976638,001-409-749-9309,emily.whitney@jackson-fuller.org,Downtown Medical Center
+107,Kim,James,Internal Medicine,LIC890170,+1-309-130-7562x63689,kim.james@salas-fitzgerald.com,Westside Clinic
+108,Janice,Stone,Pediatrics,LIC526156,-9087,janice.stone@lowe-dillon.com,East Valley Medical
+109,Chelsea,Lee,Endocrinology,LIC324130,484.344.3757,chelsea.lee@castro-michael.com,East Valley Medical
+110,Keith,Berry,Family Medicine,LIC272634,-5061,keith.berry@scott.net,East Valley Medical
+111,Joseph,Hoffman,Family Medicine,LIC509386,219-933-0833x016,joseph.hoffman@love-garcia.com,Uptown Health Hub
+112,Adam,Pierce,Endocrinology,LIC399105,(677)345-4019,adam.pierce@nichols.com,East Valley Medical
+113,Robin,Thompson,Gastroenterology,LIC865990,(067)240-0499,robin.thompson@hebert.com,Northside Family Practice
+114,Shawn,Davidson,Urology,LIC853305,728.743.1527x42054,shawn.davidson@craig.biz,East Valley Medical
+115,Margaret,Robertson,Pediatrics,LIC299122,612-275-3046,margaret.robertson@griffin.com,Uptown Health Hub
+116,Kevin,Sharp,Cardiology,LIC161324,4530174268,kevin.sharp@carrillo.com,Northside Family Practice
+117,Michael,Walker,Gastroenterology,LIC668532,(727)956-8783,michael.walker@becker.com,Downtown Medical Center
+118,Alicia,Rice,Gastroenterology,LIC428838,(191)088-3982x258,alicia.rice@wilson-harris.org,Downtown Medical Center
+119,Tracy,Nolan,Family Medicine,LIC712554,072.867.9087x406,tracy.nolan@velasquez-reese.org,East Valley Medical
+120,Charles,Henderson,Oncology,LIC994141,001-180-170-4622x656,charles.henderson@kane-knox.biz,Northside Family Practice
+121,Christopher,Brandt,Pediatrics,LIC159642,-8766,christopher.brandt@good.net,Northside Family Practice
+122,Roger,Gray,Internal Medicine,LIC992697,375.243.1069,roger.gray@allen.com,Westside Clinic
+123,Brittney,Griffin,Internal Medicine,LIC723939,+1-030-673-8302x84395,brittney.griffin@harper.com,Downtown Medical Center
+124,Nancy,Odom,Urology,LIC346629,364.408.9268x70568,nancy.odom@horton-russell.com,East Valley Medical
+125,Nicholas,Webster,Internal Medicine,LIC697347,334.270.8668x8263,nicholas.webster@harris-lucas.info,Westside Clinic
+126,Melanie,Davis,Neurology,LIC723398,001-304-699-0139x8373,melanie.davis@turner-stout.com,Downtown Medical Center
+127,Sharon,Hayden,Neurology,LIC185965,739-363-8546,sharon.hayden@ferguson-howard.com,East Valley Medical
+128,Michael,Andrade,Urology,LIC712024,175.355.6093x204,michael.andrade@donovan.com,Northside Family Practice
+129,James,Hall,Oncology,LIC431737,001-378-547-7725,james.hall@taylor.info,Uptown Health Hub
+130,Jack,Preston,Cardiology,LIC802258,+1-080-100-6231x2038,jack.preston@brooks-williamson.org,Central Wellness Center
+131,Roberta,Hopkins,Dermatology,LIC350280,886008484,roberta.hopkins@shaw.biz,Uptown Health Hub
+132,Linda,Browning,Psychiatry,LIC237235,182-339-8454,linda.browning@miller-chung.info,Central Wellness Center
+133,Annette,Branch,Urology,LIC414569,410.166.6870,annette.branch@smith.biz,East Valley Medical
+134,Deanna,Rivera,Dermatology,LIC888387,803-397-4014,deanna.rivera@elliott.com,Downtown Medical Center
+135,Alexis,Clark,Family Medicine,LIC580547,(614)293-9685,alexis.clark@campos-taylor.com,Northside Family Practice
+136,Vincent,Mccann,Neurology,LIC204837,1631599965,vincent.mccann@walters.info,Downtown Medical Center
+137,Jeremy,Tran,Oncology,LIC323508,(629)619-4311x4262,jeremy.tran@price.com,Northside Family Practice
+138,Sean,Juarez,Orthopedics,LIC238890,212-678-8861,sean.juarez@davis.com,Uptown Health Hub
+139,Candice,Mueller,Internal Medicine,LIC356150,(046)618-3982x6224,candice.mueller@adams-thomas.com,Uptown Health Hub
+140,Ryan,Fisher,Orthopedics,LIC265409,154.379.9371x2406,ryan.fisher@skinner-james.com,East Valley Medical
+141,Scott,Jordan,Oncology,LIC837715,+1-924-593-7526x5479,scott.jordan@nguyen.biz,Uptown Health Hub
+142,Michael,Frederick,Neurology,LIC946305,982.807.3741,michael.frederick@chambers-taylor.com,Central Wellness Center
+143,John,Hopkins,Oncology,LIC108203,001-661-797-9688x680,john.hopkins@miles-burnett.org,Central Wellness Center
+144,Danielle,Miller,Oncology,LIC413921,001-352-909-6561x01438,danielle.miller@stone.info,Central Wellness Center
+145,Neil,Ford,Internal Medicine,LIC240814,+1-982-507-1461x12545,neil.ford@mueller-boyd.com,Uptown Health Hub
+146,Thomas,Kim,Internal Medicine,LIC212235,001-751-401-0512x382,thomas.kim@moore.com,Central Wellness Center
+147,Lauren,Soto,Oncology,LIC262998,(660)937-9660,lauren.soto@lewis.com,Uptown Health Hub
+148,Barbara,Lloyd,Orthopedics,LIC734210,-5410,barbara.lloyd@price.com,Westside Clinic
+149,Megan,Williamson,Gastroenterology,LIC459536,+1-499-125-1341x25286,megan.williamson@carlson-andrews.biz,Westside Clinic
+150,Jacob,Reid,Urology,LIC765046,001-282-742-2579x050,jacob.reid@taylor-ochoa.net,Uptown Health Hub
+151,William,Simpson,Oncology,LIC612262,+1-767-721-9034x04384,william.simpson@norman.info,Uptown Health Hub
+152,Andrea,Wilson,Family Medicine,LIC196781,485-807-8361,andrea.wilson@greer.com,Central Wellness Center
+153,Shannon,Bailey,Psychiatry,LIC969634,713-395-9629,shannon.bailey@glover.com,Uptown Health Hub
+154,Ashley,Patel,Family Medicine,LIC103717,+1-825-449-4812x604,ashley.patel@martinez.com,Uptown Health Hub
+155,Maria,Juarez,Pediatrics,LIC768061,+1-672-946-6711x68457,maria.juarez@murphy-smith.com,Uptown Health Hub
+156,Jessica,Ellis,Pediatrics,LIC877236,+1-518-636-3745x45892,jessica.ellis@phelps.com,East Valley Medical
+157,Brandon,Sims,Oncology,LIC839945,012.770.6324x241,brandon.sims@ward.com,East Valley Medical
+158,Brett,Garrett,Oncology,LIC110139,001-361-103-7129x3870,brett.garrett@dominguez.biz,Downtown Medical Center
+159,Heather,Woods,Internal Medicine,LIC824586,611.155.4262,heather.woods@haney.com,Westside Clinic
+160,Chelsey,Martin,Oncology,LIC137778,(326)973-1121x965,chelsey.martin@edwards-taylor.com,Uptown Health Hub
+161,Deanna,Wright,Neurology,LIC679364,+1-994-043-8983x640,deanna.wright@simpson.com,Westside Clinic
+162,Victor,Wheeler,Psychiatry,LIC233636,055.269.6582x71091,victor.wheeler@baker.com,Downtown Medical Center
+163,Stacy,Sanders,Orthopedics,LIC482364,866-618-8924x1418,stacy.sanders@mccann.net,Downtown Medical Center
+164,Mark,Willis,Dermatology,LIC320281,001-146-303-1617x99042,mark.willis@smith.com,Central Wellness Center
+165,Frank,Benton,Cardiology,LIC799330,842.524.1056x48149,frank.benton@jones.info,Downtown Medical Center
+166,Michele,Jackson,Dermatology,LIC918011,(419)138-0003,michele.jackson@ruiz.com,Northside Family Practice
+167,Harold,Horne,Psychiatry,LIC750810,8635365419,harold.horne@wilson-nunez.com,Central Wellness Center
+168,Harry,Brock,Pediatrics,LIC348237,6174451870,harry.brock@gonzalez-elliott.com,Westside Clinic
+169,Jodi,Sanchez,Pediatrics,LIC532322,(973)832-0603x850,jodi.sanchez@smith-sandoval.com,Downtown Medical Center
+170,Dalton,Moreno,Pediatrics,LIC872343,670.241.0386,dalton.moreno@huang.org,Uptown Health Hub
+171,Cody,Anderson,Psychiatry,LIC941204,(199)062-3445x6557,cody.anderson@hall-harding.com,Central Wellness Center
+172,Kimberly,Richards,Gastroenterology,LIC950132,(127)756-1853,kimberly.richards@parker-baker.com,Westside Clinic
+173,Christopher,Aguirre,Orthopedics,LIC266931,903-521-3568x0442,christopher.aguirre@crane.net,Central Wellness Center
+174,Kaitlin,Wright,Internal Medicine,LIC501124,121.003.2365x199,kaitlin.wright@lowery-jones.com,Downtown Medical Center
+175,James,Brewer,Endocrinology,LIC333238,(151)070-2966,james.brewer@johnson-vega.com,Westside Clinic
+176,Michael,Odonnell,Endocrinology,LIC466643,472-099-9347x687,michael.odonnell@miller.com,Uptown Health Hub
+177,Robert,Day,Cardiology,LIC333752,380.657.8759x85642,robert.day@flores.com,Downtown Medical Center
+178,Paula,Osborne,Urology,LIC302511,7859321334,paula.osborne@velasquez.com,East Valley Medical
+179,Barbara,Mcgrath,Dermatology,LIC392136,(522)395-5905x9929,barbara.mcgrath@copeland.net,Downtown Medical Center
+180,Kyle,Henry,Orthopedics,LIC468203,039-308-7059,kyle.henry@drake.com,Central Wellness Center
+181,Samantha,Richard,Oncology,LIC519093,002-921-8515x69154,samantha.richard@taylor-moore.biz,Central Wellness Center
+182,Latoya,Yu,Oncology,LIC447235,+1-528-953-9264x4220,latoya.yu@fry.org,Downtown Medical Center
+183,Antonio,Guzman,Internal Medicine,LIC373903,+1-391-725-1355x215,antonio.guzman@smith-clark.com,Westside Clinic
+184,Michael,Buchanan,Neurology,LIC378361,001-006-762-6765x8617,michael.buchanan@curtis.com,Downtown Medical Center
+185,Lauren,Johnson,Internal Medicine,LIC725550,5411526218,lauren.johnson@morgan.info,East Valley Medical
+186,Janet,Reynolds,Dermatology,LIC863934,+1-296-201-5336x8844,janet.reynolds@young-williams.org,Uptown Health Hub
+187,Andrea,Henry,Psychiatry,LIC735656,5061497310,andrea.henry@jackson.com,Northside Family Practice
+188,Thomas,Wilson,Internal Medicine,LIC503906,(774)186-2565x2704,thomas.wilson@marshall-perez.com,Northside Family Practice
+189,Anne,Hernandez,Cardiology,LIC367095,001-115-869-3806x868,anne.hernandez@camacho.info,Downtown Medical Center
+190,Kent,Foster,Gastroenterology,LIC557239,001-089-899-2172x233,kent.foster@williams.biz,Downtown Medical Center
+191,James,Carson,Oncology,LIC945687,(945)116-8685,james.carson@stone-stark.com,Northside Family Practice
+192,Kristin,Dean,Urology,LIC854377,616.229.9911x91485,kristin.dean@baker-pena.org,Central Wellness Center
+193,Chelsea,Johnson,Gastroenterology,LIC803204,629-960-6530x745,chelsea.johnson@morgan.com,Westside Clinic
+194,Juan,Vasquez,Dermatology,LIC552248,001-132-475-4691x373,juan.vasquez@figueroa-malone.com,Downtown Medical Center
+195,Lori,Robertson,Urology,LIC446239,(148)628-9023,lori.robertson@hood.com,Northside Family Practice
+196,Stephen,Hull,Dermatology,LIC795612,001-345-786-1035x797,stephen.hull@horne.org,Downtown Medical Center
+197,Andrea,Cooper,Gastroenterology,LIC414910,140-602-9333x346,andrea.cooper@smith.com,Northside Family Practice
+198,Thomas,Anderson,Orthopedics,LIC799287,(903)494-4665,thomas.anderson@king-owens.net,East Valley Medical
+199,Madison,Sanders,Dermatology,LIC521947,085-899-4417,madison.sanders@rogers.com,Central Wellness Center
+200,Michelle,Green,Orthopedics,LIC681343,001-432-830-9652x074,michelle.green@meadows-sullivan.com,Westside Clinic
